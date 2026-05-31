@@ -356,3 +356,14 @@ MIT License - Feel free to use and adapt for your own UGC growth strategy!
   }
 }
 </script>
+
+## 🔗 Related Gingiris Skills
+
+| Skill | Focus | Install |
+|-------|-------|---------|
+| [gingiris-kol-outreach](https://github.com/Gingiris-1031/gingiris-kol-outreach) | KOL & Influencer Marketing SOP | `clawhub install gingiris-kol-outreach` |
+| [gingiris-aso-growth](https://github.com/Gingiris-1031/gingiris-aso-growth) | ASO & App Cold Start Growth | `clawhub install gingiris-aso-growth` |
+| [gingiris-launch](https://github.com/Gingiris-1031/gingiris-launch) | Product Hunt & Global Launch | `clawhub install gingiris-launch` |
+| [gingiris-go-global](https://github.com/Gingiris-1031/gingiris-go-global) | Go-Global Expansion Strategy | `clawhub install gingiris-go-global` |
+
+> 📦 **Full collection:** [gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) — All playbooks in one bundle.
