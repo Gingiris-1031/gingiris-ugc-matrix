@@ -1,17 +1,33 @@
 ---
 name: gingiris-ugc-matrix
 description: |
-  🇺🇸 UGC Matrix Growth Playbook — Scale user-generated content with AI + real creators. Complete SOP for UGC flywheel, creator recruitment, incentive design, multi-platform publishing. Proven at CPM $0.5, $10M ARR in 60 days with 70M impressions. Kuse case study included.
+  Paid ads cost $5-10 CPM. Your competitor is scaling with creator content at $0.50 CPM. This shows you how to build a content matrix that combines human creators with AI-generated variations for massive organic reach at minimal cost.
 
-  🇨🇳 UGC矩阵号增长实操手册 — AI+真人创作者规模化用户生成内容。完整的UGC飞轮SOP、创作者招募、激励机制设计、多平台分发策略。已验证CPM $0.5，60天$1000万ARR，7000万曝光。含Kuse案例拆解。
+  What's inside:
+  • Creator recruitment SOP (find, vet, onboard at scale)
+  • Content brief system (templates that produce on-brand UGC consistently)
+  • AI content multiplication (one human video → 10 AI variations)
+  • Multi-platform distribution engine (TikTok/Instagram/YouTube/Threads)
+  • Scaling playbook: from 5 creators to 50+ without quality collapse
 
-  🇯🇵 UGCマトリックス成長プレイブック — AI＋リアルクリエイターでUGCをスケール。フライホイールSOP、クリエイター採用、インセンティブ設計、マルチプラットフォーム配信。CPM $0.5、60日で$10M ARR、7000万インプレッション実証済み。Kuseケーススタディ付き。
-
-  🇰🇷 UGC 매트릭스 성장 플레이북 — AI + 실제 크리에이터로 UGC 스케일링. 플라이휠 SOP, 크리에이터 모집, 인센티브 설계, 멀티플랫폼 배포. CPM $0.5, 60일 $10M ARR, 7000만 노출 검증 완료. Kuse 케이스 스터디 포함.
+  Built from: Kuse case study — 60 days from launch to $10M ARR via UGC matrix. 70M impressions at CPM $0.5.
 
   Triggers: "UGC" | "UGC matrix" | "user generated content" | "creator program" | "creator economy" | "AI UGC" | "matrix accounts" | "矩阵号" | "UGC运营" | "创作者招募" | "UGC Program" | "content matrix" | "TikTok UGC" | "Instagram UGC"
 ---
 
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-ugc-matrix
+```
+
+**What you get after installing:**
+- AI + human creator scaling system
+- Multi-platform content distribution
+- CPM $0.5 UGC pipeline
+
+---
 # UGC 矩阵号增长实操手册
 
 > 🌍 **Language / 语言**: 中文 | [English](https://github.com/Gingiris-1031/gingiris-ugc-matrix/blob/main/references/full-sop.md)
@@ -112,3 +128,15 @@ IP号（立人设、建信任）
 | UTM短链接 | Juicebox, Bitly |
 | 多平台分发 | Buffer, 爱笔 |
 | AI视频生成 | Sora 2, 可灵 (Kling), inVideo |
+
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium Bundle (all 5 playbooks + templates): [Get on Gumroad ($249)](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
